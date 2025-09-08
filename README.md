@@ -14,7 +14,7 @@ This is where the deepest knowledge lies. The books are categorized from foundat
     * *Volume 2: Physics, Chemistry and Biology*
     * *Volume 3: Systems and Mathematics*
 
-2.  [***Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger***](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack) **edited by Peter D. Kaufman**
+2.  [***Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger***](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack) **edited by Charles T. Munger, Peter E. Kaufman (Editor)**
     * Charlie Munger (Warren Buffett's business partner) is the modern popularizer of the "latticework of mental models" concept. This book is a collection of his brilliant, funny, and insightful talks. His speech, "The Psychology of Human Misjudgment," is a masterclass in itself.
 
 3. [***Clear Thinking: Turning Ordinary Moments into Extraordinary Results***](https://www.goodreads.com/book/show/75665850-clear-thinking) **by Shane Parrish**
@@ -25,13 +25,16 @@ This is where the deepest knowledge lies. The books are categorized from foundat
 4.  [***Thinking, Fast and Slow***](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) **by Daniel Kahneman**
     * A Nobel Prize winner's seminal work on the two systems that drive how we think: System 1 (fast, intuitive, emotional) and System 2 (slower, deliberative, logical). Understanding this duality is crucial for recognizing cognitive biases, which mental models help counteract.
 
-5.  [***Rationality***](https://www.goodreads.com/book/show/56224080-rationality) **by Annie Duke**
+5.  [***Rationality***](https://www.goodreads.com/book/show/56224080-rationality) **by Steven Pink**
     * Rationality matters. It leads to better choices in our lives and in the public sphere, and is the ultimate driver of social justice and moral progress. Brimming with insight and humour, Rationality will enlighten, inspire and empower.
 
-### Books on Systems Thinking (A Meta-Model)
+### Other books
 
-7.  [***Thinking in Systems: A Primer***](https://www.goodreads.com/book/show/3828902-thinking-in-systems) **by Donella H. Meadows**
-    * Systems thinking is one of the most powerful meta-models you can learn. This short, accessible book is the definitive introduction to understanding how complex systems—from your business to the environment—work. It introduces concepts like feedback loops, stocks, and flows.
+6.  [***Same as Ever: A Guide to What Never Changes***](https://www.goodreads.com/book/show/125116554-same-as-ever) **by Morgan Housel**
+    * Same as Ever reverses the process, inviting us to identify the many things that never, ever change.
+
+7.  [***The Psychology of Money***](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) **by Morgan Housel**
+    * Doing well with money isn't necessarily about what you know. It's about how you behave. And behavior is hard to teach, even to really smart people 
 
 ## Articles & Essays
 
@@ -53,10 +56,7 @@ These resources provide a continuous stream of new ideas and applications.
 2.  **[James Clear (jamesclear.com)](https://jamesclear.com/)**
     * While famous for his book *Atomic Habits*, James Clear's website is a treasure trove of articles on decision-making, productivity, and mental models. He has a gift for synthesizing complex ideas into simple, actionable frameworks.
 
-3.  **[Wait But Why (waitbutwhy.com)](https://waitbutwhy.com/)**
-    * Tim Urban uses long-form, stick-figure-illustrated posts to break down incredibly complex topics (procrastination, artificial intelligence, Elon Musk's companies). He is a master at building a mental model for the reader from the ground up, making difficult subjects feel intuitive.
-
-4.  **[LessWrong (lesswrong.com)](https://www.lesswrong.com/)**
+3.  **[LessWrong (lesswrong.com)](https://www.lesswrong.com/)**
     * A community blog focused on "refining the art of human rationality." It can be more technical and philosophical, but it's a fantastic resource for deep dives into cognitive science, Bayesian reasoning (`P(A|B) ∝ P(B|A)P(A)`), and effective thinking.
 
 ## Key Concepts on Wikipedia
