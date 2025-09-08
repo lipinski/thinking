@@ -8,7 +8,7 @@ This is where the deepest knowledge lies. The books are categorized from foundat
 
 ### Core Books on Mental Models
 
-1.  [***The Great Mental Models Series***](https://www.goodreads.com/series/282993-the-great-mental-models) **by Shane Parrish and Rhiannon Beaubien**
+1.  [***The Great Mental Models Series***](https://www.goodreads.com/series/282993-the-great-mental-models](https://www.goodreads.com/series/421093-the-great-mental-models) **by Shane Parrish and Rhiannon Beaubien**
     * This is arguably the best starting point. The series is explicitly designed to teach the most useful mental models from various disciplines.
     * *Volume 1: General Thinking Concepts*
     * *Volume 2: Physics, Chemistry and Biology*
